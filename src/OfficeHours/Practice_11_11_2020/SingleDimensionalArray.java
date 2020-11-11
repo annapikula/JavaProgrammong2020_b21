@@ -24,6 +24,16 @@ public class SingleDimensionalArray {
             
         }
 
+        System.out.println("=================================================");
+
+        int j = 0;
+
+        for(int each: scores){
+
+        }
+
+        System.out.println(Arrays.toString(scores));
+
 
 
     }
